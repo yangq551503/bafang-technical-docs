@@ -1,0 +1,7 @@
+*.pdf
+*.docx
+*.zip
+*.DS_Store
+.claude/
+560/
+*_副本*
